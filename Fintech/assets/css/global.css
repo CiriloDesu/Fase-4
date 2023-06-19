@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rationale&family=Red+Hat+Text:wght@600&display=swap');
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display:flex;
+    flex-direction: column;
+    background-color: #323034;
+}
+
+h2 {
+    color: white;
+    font-family: 'Red Hat Text', sans-serif;
+}
